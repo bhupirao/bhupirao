@@ -1,4 +1,5 @@
 ![logo](https://github.com/bhupirao/bhupirao/blob/main/My%20project%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Bhoop Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
@@ -25,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupirao&show_icons=true&locale=en&layout=compact" alt="bhupirao" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupirao&" alt="bhupirao" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupirao&" alt="bhupirao" /></p>
